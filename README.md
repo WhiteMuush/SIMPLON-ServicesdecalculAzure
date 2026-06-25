@@ -2,6 +2,10 @@
 **Durée estimée : 50-60 min**  
 **Prérequis : accès au portail Azure de la formation — utiliser votre groupe de ressources existant**
 
+> 📖 **Cours complet et détaillé sur le wiki** : <https://github.com/WhiteMuush/simplon-azure-compute-tp/wiki>
+>
+> Le wiki explique chaque partie deux fois (portail Azure **et** automatisation `az` via les scripts), avec les pièges rencontrés et leurs corrections. Ce README ne contient que l'énoncé du TP.
+
 ---
 
 ## 🎯 Scénario
